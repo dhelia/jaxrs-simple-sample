@@ -27,4 +27,4 @@ There is one service endpoints:
 
 Copyright (c) 2017
 by Xigole Systems
-Licensed under the MIT License - see the file LICENSE for details. 
+Licensed under the Apache License - see the file LICENSE for details. 
